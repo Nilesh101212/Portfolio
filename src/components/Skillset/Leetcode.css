@@ -1,0 +1,30 @@
+.leetcode-row {
+    justify-content: center;
+    padding-bottom: 10px;
+    text-align: center;
+  }
+  
+  .project-heading {
+    padding-bottom: 20px;
+    font-size: 2em;
+  }
+  
+  .leetcode-image {
+    max-width: 100%; /* Ensures the image scales down with the screen */
+    height: auto; /* Maintains aspect ratio */
+  }
+  
+  @media (max-width: 767px) {
+    .project-heading {
+      font-size: 1.5em;
+    }
+  
+    .leetcode-row {
+      padding: 0 15px;
+    }
+  
+    .leetcode-image {
+      max-width: 80%; /* Adjusts image size for smaller screens */
+    }
+  }
+  
