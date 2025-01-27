@@ -28,7 +28,7 @@ Student Records: Enabled mentors to upload and access detailed student data.
 Progress Reports:  Design downloaded PDFs summarizing student growth.
 Attendance Tracking: Integrated a daily attendance system for accurate record-keeping.
 Tech Stack: ReactJS, NodeJS, ExpressJS, MongoDB, TailwindCSS."
-              ghLink="https://github.com/19sajib/lift-buddy"
+              ghLink="https://github.com/HanushaJain66/GramUrja"
             />
           </Col>
 
